@@ -41,8 +41,9 @@ export const siteConfig = {
       title: "Mobile Engineer",
       dateRange: "March 2025 - Present",
       bullets: [
-        "Built and launched MVP product from scratch using Kotlin and compose for the Native Android app with 100K+ downloads and 4.5-star rating",
-        "Reduced API response times by 40% through optimization",
+        "Built an MVP of a ride-hailing app from scratch using Kotlin and compose for the Native Android app for both the Rider and Driver apps, implementing features such as real-time location tracking, in-app messages and calls, ride sharing, e.t.c",
+        "Implemented a one-tap SOS feature that initiates emergency voice recording to capture critical safety data",
+        "Developed live ride-sharing integration, allowing users to broadcast their active trip status to trusted contacts"
       ],
     },
     {
