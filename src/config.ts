@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/toluasalu",
   },
   aboutMe:
-    "Software engineer with 3+ years of experience dedicated to building high-performance, beautiful mobile experiences within the Google ecosystem. My expertise lies in Modern Android Development, where I focus on architecting scalable solutions using Kotlin and Jetpack Compose. Currently, I am scaling my technical foundation into Kotlin Multiplatform (KMP) to build unified, cross-platform systems without compromising on native performance",
+    "Software engineer with 3+ years of experience dedicated to building high-performance, beautiful mobile experiences within the Google ecosystem. My expertise lies in Modern Android Development, where I focus on architecting scalable solutions using Kotlin and Jetpack Compose. Currently, I am scaling my technical foundation into Kotlin Multiplatform (KMP) to build unified, cross-platform systems without compromising on native performance. Ask me anything about Android, Kotlin Multiplatform, and the future of Google-related mobile technologies.",
   skills: ["Kotlin", "Android", "Jetpack Compose", "KMP"],
   projects: [
     {
