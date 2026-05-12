@@ -10,8 +10,8 @@ export const siteConfig = {
     github: "https://github.com/toluasalu",
   },
   aboutMe:
-    "Software engineer with 3+ years of experience dedicated to building high-performance, beautiful mobile experiences within the Google ecosystem. My expertise lies in Modern Android Development, where I focus on architecting scalable solutions using Kotlin and Jetpack Compose. Currently, I am scaling my technical foundation into Kotlin Multiplatform (KMP) to build unified, cross-platform systems without compromising on native performance. Ask me anything about Android, Kotlin Multiplatform, and the future of Google-related mobile technologies.",
-  skills: ["Kotlin", "Android", "Jetpack Compose", "KMP"],
+    "Software engineer with 3+ years of experience dedicated to building high-performance and beautiful mobile solutions. My expertise lies in mobile technologies like Android and React Native, where I leverage Kotlin and Jetpack Compose for native Android development and Expo for cross-platform React Native solutions.  I have a track record of delivering high-quality products within the fintech, logistics, and consumer tech sectors.",
+  skills: ["Kotlin", "Android", "Jetpack Compose", "React Native", "Expo"],
   projects: [
     {
       name: "Oya Riyder",
