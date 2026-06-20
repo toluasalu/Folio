@@ -10,13 +10,13 @@ export const siteConfig = {
     github: "https://github.com/toluasalu",
   },
   aboutMe:
-    "Software engineer with 3+ years of experience dedicated to building high-performance and beautiful mobile solutions. My expertise lies in mobile technologies like Android and React Native, where I leverage Kotlin and Jetpack Compose for native Android development and Expo for cross-platform React Native solutions.  I have a track record of delivering high-quality products within the fintech, logistics, and consumer tech sectors.",
+    "I build production-ready mobile applications focused on real-time systems, geolocation, fintech, and mobility. Over the past three years I've worked across Android and React Native, delivering applications involving authentication, background location tracking, push notifications, payment systems, WebSockets, and scalable backend integration. I'm currently building the Android Rider and Driver applications for a ride-hailing platform from the ground up using Kotlin and Jetpack Compose",
   skills: ["Kotlin", "Android", "Jetpack Compose", "React Native", "Expo"],
   projects: [
     {
       name: "Oya Riyder",
       description:
-        "Ride hailing app designed exclusively for Android using Modern Android tech like Kotlin, Compose, e.t.c. Book rides at the best prices. Edit your destination on the go. Pay with ease. Oya Riyder is your trusted companion for seamless and affordable transportation.",
+        "Built the Android Rider application for a ride-hailing platform from the ground up using Kotlin, Jetpack Compose and Supabase. Implemented: real-time driver tracking, trip lifecycle management, ride requests, background location, push notifications, ride sharing, emergency SOS, live messaging, wallet payments",
       link: "https://oyariyders.com/",
       skills: ["Kotlin", "Compose", "Supabase"],
     },
