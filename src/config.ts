@@ -23,14 +23,14 @@ export const siteConfig = {
     {
       name: "Vuvaa Lifestyle",
       description:
-        "Payments application designed to make your payment patterns easily repeatable. Built with React Native and Firebase, the app allows users to save their payment details and create templates for recurring payments, making it easier to manage and track their expenses. With a user-friendly interface and secure payment processing, Vuvaa Lifestyle is the perfect solution for anyone looking to simplify their payment experience.",
+        "Fintech mobile application focused on simplifying recurring payments and digital transactions. Built with React Native and Firebase, the platform enables users to save payment details, create reusable payment templates, and perform secure QR-based payments. I contributed to the implementation of core payment workflows and transaction management features, helping deliver a reliable cross-platform payment experience.",
       link: "https://play.google.com/store/search?q=vuvaa+lifestyle&c=apps",
       skills: ["React Native", "Redux", "Firebase"],
     },
     {
       name: "MovSmart Abuja",
       description:
-        "On-demand smart companion app for use during commuting built with React Native and Firebase, offering real-time location tracking during a trip, and the ability to share your location if there are any security concerns. The app also provides a panic button feature that allows users to quickly alert emergency contacts in case of an emergency.",
+       "MovSmartAbuja is a mobility-focused safety and verification platform built with React Native and Firebase for the FCT transport ecosystem. I designed and developed the application from the ground up,implementing real-time trip tracking, location sharing, secure driver verification, and emergency response workflows to improve commuter safety. Key features included a Panic Mode system that continuously streamed rider locations to an administrative dashboard, emergency contact notifications with pre-filled alerts, and automated trip escalation mechanisms for potentially unsafe journeys.",
       link: "https://play.google.com/store/apps/details?id=com.movsmart.abuja",
       skills: ["React Native", "Firebase"],
     },
