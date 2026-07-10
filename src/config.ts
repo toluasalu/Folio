@@ -20,7 +20,15 @@ export const siteConfig = {
       link: "https://oyariyders.com/",
       skills: ["Kotlin", "Compose", "Supabase", "Mapbox", "Google Maps API"],
       role: "Android Engineer",
-      responsibility: "Owned the Android implementation for the Rider and Driver applications from feature development through production delivery."
+      responsibility: "Owned the Android implementation for the Rider and Driver applications from feature development through production delivery.",
+      highlights: [
+        "Real-time GPS tracking",
+        "Background location",
+        "Supabase Realtime",
+        "Push notifications",
+        "Emergency SOS",
+        "Wallet payments"
+      ]
     },
     {
       name: "Vuvaa Lifestyle",

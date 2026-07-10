@@ -102,7 +102,31 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                               </span>
                             }
                           </div>
-                        
+
+                          <div class="flex flex-wrap gap-1.5 sm:gap-2 pt-2">
+                            {
+                              <span
+                                class={`px-2.5 sm:px-3 py-1 sm:py-1.5 bg-gray-900 text-white rounded-md sm:rounded-lg text-xs sm:text-sm font-medium transition-all duration-300 ${
+                                  project.link ? "group-hover:bg-gray-800" : ""
+                                }`}
+                              >
+                                {project.responsibility}
+                              </span>
+                            }
+                          </div>
+                          {project.highlights && project.highlights.length > 0 && (
+                          <div class="flex flex-wrap gap-1.5 sm:gap-2 pt-2">
+                            {project.highlights.map((highlight) => (
+                              <span
+                                class={`px-2.5 sm:px-3 py-1 sm:py-1.5 bg-gray-900 text-white rounded-md sm:rounded-lg text-xs sm:text-sm font-medium transition-all duration-300 ${
+                                  project.link ? "group-hover:bg-gray-800" : ""
+                                }`}
+                              >
+                                {highlight}
+                              </span>
+                            ))}
+                          </div>
+                        )}
                       </div>
                     </Component>
                   </div>
