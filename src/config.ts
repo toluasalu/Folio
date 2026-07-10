@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/toluasalu",
   },
   aboutMe:
-    "I'm a Mobile Engineer with over three years of professional experience building production applications that solve real-world problems across mobility, fintech, and commuter safety. I specialize in creating reliable, user-focused mobile experiences with React Native and Android, particularly where real-time communication, location services, payments, and scalable backend integrations are essential",
+    "I'm a Mobile Engineer with over three years of professional experience building production applications that solve real-world problems across mobility, fintech. I specialize in creating reliable, user-focused mobile experiences with React Native and Android, particularly where real-time communication, location services, payments, and scalable backend integrations are essential. Throughout my career, I've built and delivered features including secure payment workflows, live GPS tracking, background location services, push notifications, authentication, and real-time messaging",
   skills: ["Kotlin", "Android", "Jetpack Compose", "React Native", "Expo"],
   projects: [
     {
