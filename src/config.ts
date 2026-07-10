@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/toluasalu",
   },
   aboutMe:
-    "I build production-ready mobile applications focused on real-time systems, geolocation, fintech, and mobility. Over the past three years I've worked across Android and React Native, delivering applications involving authentication, background location tracking, push notifications, payment systems, WebSockets, and scalable backend integration. I'm currently building the Android Rider and Driver applications for a ride-hailing platform from the ground up using Kotlin and Jetpack Compose",
+    "I'm a Mobile Engineer with over three years of professional experience building production applications that solve real-world problems across mobility, fintech, and commuter safety. I specialize in creating reliable, user-focused mobile experiences with React Native and Android, particularly where real-time communication, location services, payments, and scalable backend integrations are essential",
   skills: ["Kotlin", "Android", "Jetpack Compose", "React Native", "Expo"],
   projects: [
     {
