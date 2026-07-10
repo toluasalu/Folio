@@ -16,9 +16,11 @@ export const siteConfig = {
     {
       name: "Oya Riyder",
       description:
-        "Built the Android Rider application for a ride-hailing platform from the ground up using Kotlin, Jetpack Compose and Supabase. Implemented: real-time driver tracking, trip lifecycle management, ride requests, background location, push notifications, ride sharing, emergency SOS, live messaging, wallet payments",
+        "Built the Android Rider and Driver applications for a production ride-hailing platform using Kotlin, Jetpack Compose, and Supabase. Developed core mobility features including real-time driver tracking, ride requests, trip lifecycle management, background location tracking, push notifications, in-app messaging, ride sharing, emergency SOS, and wallet payments to support seamless rider and driver experiences.",
       link: "https://oyariyders.com/",
       skills: ["Kotlin", "Compose", "Supabase", "Mapbox", "Google Maps API"],
+      role: "Android Engineer",
+      responsibility: "Owned the Android implementation for the Rider and Driver applications from feature development through production delivery."
     },
     {
       name: "Vuvaa Lifestyle",
