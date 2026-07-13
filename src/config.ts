@@ -35,14 +35,25 @@ export const siteConfig = {
       description:
         "Fintech mobile application focused on simplifying recurring payments and digital transactions. Built with React Native and Firebase, the platform enables users to save payment details, create reusable payment templates, and perform secure QR-based payments. I contributed to the implementation of core payment workflows and transaction management features, helping deliver a reliable cross-platform payment experience.",
       link: "https://play.google.com/store/search?q=vuvaa+lifestyle&c=apps",
-      skills: ["React Native", "Redux", "Firebase"],
+      skills: ["React Native", "Redux", "Firebase Cloud Messaging"],
+      role: "React Native Engineer",
+      responsibility: "Owned the Android implementation for the Rider and Driver applications from feature development through production delivery.",
     },
     {
       name: "MovSmart Abuja",
       description:
-       "MovSmartAbuja is a mobility-focused safety and verification platform built with React Native and Firebase for the FCT transport ecosystem. I designed and developed the application from the ground up,implementing real-time trip tracking, location sharing, secure driver verification, and emergency response workflows to improve commuter safety. Key features included a Panic Mode system that continuously streamed rider locations to an administrative dashboard, emergency contact notifications with pre-filled alerts, and automated trip escalation mechanisms for potentially unsafe journeys.",
+       "MovSmartAbuja is a mobility safety platform created to improve commuter safety across Abuja's public transportation system through driver verification, real-time trip monitoring, and emergency response features.",
       link: "https://play.google.com/store/apps/details?id=com.movsmart.abuja",
-      skills: ["React Native", "Firebase"],
+      skills: ["React Native", "Firebase Cloud Messaging", "Expo Location", "Redux"],
+      role: "React Native Engineer",
+      responsibility: "Led the end-to-end development of the MovSmart mobile application, delivering production-ready features for commuter safety, real-time trip monitoring, driver verification, and emergency response.",
+      highlights: [
+        "Real-time GPS tracking",
+        "Background location",
+        "Push notifications",
+        "Emergency SOS",
+        "Headless background tasks for location tracking",
+      ]
     },
   ],
   experience: [
