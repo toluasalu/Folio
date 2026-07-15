@@ -33,13 +33,18 @@ export const siteConfig = {
     {
       name: "Vuvaa Lifestyle",
       description:
-        "Fintech mobile application focused on simplifying recurring payments and digital transactions. Built with React Native and Firebase, the platform enables users to save payment details, create reusable payment templates, and perform secure QR-based payments. I contributed to the development of core payment workflows, including owning the implementation of the QR payment experience, enabling users to scan, share, and extract payment information from QR codes stored as images on their devices.",
+        "Vuvaa Lifestyle is a fintech mobile application focused on simplifying recurring payments and digital transactions. Built with React Native and Firebase, the platform enables users to save payment details, create reusable payment templates, and perform secure QR-based payments. I contributed to the development of core payment workflows and transaction features that delivered a secure and reliable cross-platform payment experience.",
       link: "https://play.google.com/store/search?q=vuvaa+lifestyle&c=apps",
       skills: ["React Native", "Redux", "Firebase Cloud Messaging"],
       role: "React Native Engineer",
       responsibility:
-    "Owned the implementation of the QR payment workflow, allowing users to scan QR codes, share payment QR codes, and extract payment information from images for a more flexible payment experience."
-    },
+    "Owned the implementation of the QR payment workflow, allowing users to scan QR codes, share payment QR codes, and extract payment information from images for a more flexible payment experience.",
+    highlights: [
+      "QR payment workflow",
+    "QR code scanning and sharing",
+    "Image-based QR code extraction (Google ML Kit)",
+    ]
+  },
     {
       name: "MovSmart Abuja",
       description:
